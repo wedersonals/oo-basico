@@ -3,6 +3,7 @@
 Tecnologias/Recursos de linguagem:
 
 - Java 11
+- Maven
 - Lombok
 - Lambda
 - Reference Method
